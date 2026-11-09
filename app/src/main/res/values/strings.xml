@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Menu Compose</string>
+    <string name="texto_inicial">Aquí va a aparecer la opción que elijas</string>
+    <string name="elegiste">Elegiste: %1$s</string>
+    <string name="abrir_menu">Abrir menú</string>
+    <string name="opcion_uno">Opción uno</string>
+    <string name="opcion_dos">Opción dos</string>
+    <string name="opcion_tres">Opción tres</string>
+</resources>
